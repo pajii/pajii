@@ -44,3 +44,5 @@ You can click the Preview link to take a look at your changes.
 
 [Main Account]:https://twitter.com/sudo_sudo_
 [Program Account]:https://twitter.com/sudo_record_
+
+email : pajii0712@gmail.com
