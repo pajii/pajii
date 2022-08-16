@@ -9,7 +9,13 @@ print("Hello!")
 ## 👋 Hi, I’m @pajii
 
 
+<details>
 
+<summary><h3>포나곰 보고 가세요 🐻‍❄️🥺🥺🐻‍❄️ </h3></summary>
+  
+https://user-images.githubusercontent.com/63144192/184896859-394580a3-41ec-4c9e-8882-5686605d8133.mp4
+
+</details>
 
 
 ## 👀 I’m interested in ...
@@ -28,10 +34,6 @@ print("Hello!")
 <br>   [Main Account]
 <br>   [Program Account]
 
-
-포나곰 보고 가세요 🐻‍❄️🥺🥺🐻‍❄️
-
-https://user-images.githubusercontent.com/63144192/184896859-394580a3-41ec-4c9e-8882-5686605d8133.mp4
 
 
 <!---
